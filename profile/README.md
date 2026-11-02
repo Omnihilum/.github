@@ -1,3 +1,5 @@
-![banner](https://github.com/Omnihilum/.github/blob/22b5f1ba76ced8b500b2196e6d2555a0240c631e/banneromnihilum.png)
+<img width="6912" height="3456" alt="omnihilumbanner" src="https://github.com/user-attachments/assets/b9214722-16f6-413b-bbae-051f13f3e953" />
 
-## Coming soon...
+🇫🇷 **Made in France. Built for Cybersecurity.**
+
+A French tech startup designing and developing innovative cybersecurity devices. Engineered with purpose. Built for what's next.
